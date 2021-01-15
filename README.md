@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-18yo
-
-Modena
-
-ICT high-school student
-
+18yo <br>
+Modena <br>
+ICT high-school student <br>
 ITIS Enrico Fermi
 
