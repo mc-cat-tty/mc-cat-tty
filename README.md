@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+18yo
+Modena
+ICT high-school student
+ITIS Enrico Fermi
