@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 18yo <br>
 Modena <br>
-ICT high-school student <br>
-ITIS Enrico Fermi
-
+CS undergrad at UniMoRe @Unimore <br>
+Former ICT student at ITIS Enrico Fermi @ITIS-Enrico-Fermi
