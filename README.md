@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 18yo <br>
 Modena <br>
-CS undergrad at UniMoRe @Unimore <br>
-Former ICT student at ITIS Enrico Fermi @ITIS-Enrico-Fermi
+CS undergrad at UniMoRe [@Unimore](https://github.com/ITIS-Enrico-Fermi) <br>
+Former ICT student at ITIS Enrico Fermi [@ITIS-Enrico-Fermi](https://github.com/ITIS-Enrico-Fermi)
