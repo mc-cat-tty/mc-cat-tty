@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <br>
 -->
 
-[https://mec.cat](https://mec.cat)
+Know more about me at [https://mec.cat](https://mec.cat)
